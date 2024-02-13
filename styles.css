@@ -1,7 +1,9 @@
 @import 'https://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/css/bootstrap.min.css';
+
 body {
     min-height: 100vh;
     background-color: #bcd7f1;
+    background-image: linear-gradient(rgba(105, 147, 245, 0.93), rgb(172, 248, 248));
     font-family: Arial, sans-serif;
     letter-spacing: 1.2px;
     color: rgb(43, 42, 42);
