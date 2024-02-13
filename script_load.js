@@ -11,5 +11,5 @@ document.addEventListener("DOMContentLoaded", function() {
     }
 
     changeColorAndWidth();
-    setInterval(changeColorAndWidth, 3000);
+    setInterval(changeColorAndWidth, 2000);
 });
